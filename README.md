@@ -8,7 +8,7 @@ $ pip install git+https://github.com/ttivy/str-replacer.git
 or
 ```Bash
 $ git clone https://github.com/ttivy/str-replacer.git
-$ cd str-replacer.git
+$ cd str-replacer
 $ python setup.py install
 ```
 
